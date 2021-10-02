@@ -1,8 +1,0 @@
-[ & IN ]
-[ > 1 1 ]
-[ > 0 0 ]
-[ > 0RUN >\s#\s0\s ]
-[ > 1RUN *\s1\s=\s@\s@ ]
-[ $ IN IN 0 0RUN ]
-[ $ IN IN 1 1RUN ]
-[ = @ IN ]
